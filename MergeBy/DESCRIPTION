@@ -1,7 +1,7 @@
 Package: MergeBy
 Title: Find common columns as potential merge/join keys
 Version: 0.1
-Authors@R: "Jason Miller <jmillerlaureate@gmail.com> [aut, cre]"
+Authors@R: "Ason Peikoff <jmillerlaureate@gmail.com> [aut, cre]"
 Description: This tiny R package finds common columns for potential merges (joins) in R. Particularly useful when dealing with Big Data involving many features.
 Depends:
     R (>= 3.1.1)
